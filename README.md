@@ -1,2 +1,0 @@
-# expense-tool
-Expense tool
